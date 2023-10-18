@@ -2911,9 +2911,9 @@ fieldset:disabled .btn {
 .btn-check:focus+.btn-secondary,
 .btn-secondary:focus {
     color: #000;
-    background-color: #ff3334;
-    border-color: #ff2728;
-    box-shadow: 0 0 0 .25rem rgba(217, 13, 14, 0.5)
+    background-color: #3ba04a;
+    border-color: #3ba04a;
+    box-shadow: 0 0 0 .25rem rgba(13, 217, 20, 0.5)
 }
 
 .btn-check:checked+.btn-secondary,
